@@ -1,0 +1,13 @@
+Privacy Policy (Adatvédelmi irányelvek)
+
+Az applikáció nem kér be vagy gyűjt semmilyen személyes adatot, beleértve használati és eszköz adatokat se.
+Az applikáció nem használ harmadik féltől származó kódot, nem küld statisztikákat sehova.
+
+Én a fejlesztő csak azt látom hány eszközre van telepítve az alkalmazás.
+
+Az applikáció használatához nincs szükség regisztrációra vagy internet kapcsolatra.
+
+Az applikáció nyílt forráskóddal rendelkező ingyenes szoftver, a forrás kód itt elérhető a MIT licensz alatt:
+https://github.com/akosnikhazy/know-your-officer-open/tree/main
+
+2025 Nikházy Ákos
